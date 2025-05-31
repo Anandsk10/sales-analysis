@@ -57,7 +57,7 @@ The system uses a normalized database schema with the following tables:
 1. Clone the repository
 ```bash
 git clone <repository-url>
-cd sales-analysis-system
+cd sales-analysis
 ```
 
 2. Start the services
